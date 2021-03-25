@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.iphone {
+    width: 500px;
+    height: 500px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#iphone2 {
+    background-image: url(/iPhone-12-2.png);
+}
+
+#iphone1 {
+    background-image: url(/iPhone-12-1.png);
+}
